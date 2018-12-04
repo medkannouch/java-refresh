@@ -1,10 +1,12 @@
-package com.trans.yago.controllers;
+package com.java.refresh.controllers;
 
+import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.trans.yago.beans.DtoBean;
+import com.java.refresh.beans.DtoBean;
 
+@Component
 @RestController
 @RequestMapping("/home")
 

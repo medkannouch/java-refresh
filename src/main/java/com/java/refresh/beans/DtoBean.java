@@ -1,4 +1,4 @@
-package com.trans.yago.beans;
+package com.java.refresh.beans;
 
 public class DtoBean {
 	private String message;

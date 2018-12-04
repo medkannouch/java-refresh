@@ -1,4 +1,4 @@
-package com.trans.yago;
+package com.java.refresh;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
